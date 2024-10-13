@@ -1,0 +1,12 @@
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.AssemblyReference.cache
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Home.resources
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Collection.resources
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Properties.Resources.resources
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.exe
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.pdb
+C:\Users\ASUS\Videos\GitHub\Perpustakaan\Perpustakaan\obj\Debug\Perpustakaan.Login.resources
